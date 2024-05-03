@@ -12,8 +12,7 @@ Sample website for nutritional recipes using bootstrap.
 
 3. **Responsive**
 
-![Home page responsive](/capturas/fruta-fruto_inicio-recetas-mobile.png)
-
-<img src="/capturas/fruta-fruto_inicio-recetas-mobile.png" width="30%" height="auto">  <img src="/capturas/fruta-fruto_inicio-recetas-mobile2.png" width="30%" height="auto">
+<img src="/capturas/fruta-fruto_inicio-recetas-mobile.png" width="30%" height="auto">  
+<img src="/capturas/fruta-fruto_inicio-recetas-mobile2.png" width="30%" height="auto">
 
 
